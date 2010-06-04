@@ -44,6 +44,8 @@ by the value in the appropriate `strings.json` file.
 I wrote `localize-html.js` for use in [TouchNote][1]. If I hear of
 it being used anywhere else, I'll note it here.
 
+   [1]: http://onecrayon.com/touchnote/
+
 ## Released under an MIT license
 
 Copyright (c) 2010 Ian Beck
